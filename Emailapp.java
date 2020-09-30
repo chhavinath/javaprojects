@@ -6,6 +6,7 @@ public class Emailapp
     {
         emailapp.Email em1 = new emailapp.Email("navneet","katiyar");
         System.out.println(em1.display());
+        System.out.println(em1.display());
 
     }
 }
